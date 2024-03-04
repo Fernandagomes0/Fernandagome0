@@ -1,22 +1,3 @@
-# olá mundo, 
+#   olá mundo, me chamo Fernanda e seja bem-vindo ao meu perfil. 
 
-
-< img  height = " 180em "  src = " https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true " />
-  < img  height = " 180em "  src = " https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&langs_count=6&theme=tokyonight " />
-  < img  src = " https://img.icons8.com/color/2x/vue-js.png "  largura = " 120 "  alt = " Vue.js " >
-  < img  src = " https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png "  largura = " 120 "  alt = " Reagir Nativo " >
-  < img  src = " https://img.icons8.com/color/2x/html-5.png "  largura = " 120 "  alt = " HTML5 " >
-  < img  src = " https://img.icons8.com/color/2x/css3.png "  largura = " 120 "  alt = " CSS3 " >
-  < img  src = " https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png "  largura = " 120 "  alt = " JavaScript " >
-  < img  src = " https://img.icons8.com/color/2x/bootstrap.png "  largura = " 120 "  alt = " Bootstrap " >
-  < img  src = " https://img.icons8.com/nolan/2x/javascript.png "  largura = " 120 "  alt = " JavaScript " >
-  < img  src = " https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png "  largura = " 120 "  alt = " Reagir Nativo " >
-</ tabela >
-
-<div> _ _
-  <a href = " https://www.youtube.com/channel/UCbOyyAqpyiYiImgaoXAwd9A " target = " _blank " > < img src = " https://img.shields.io/badge/YouTube-FF0000?style=for- _  _ _ _ _ _ _ _ _ _ _ the-badge&logo=youtube&logoColor=white " target = " _blank " </ a >   
-  <a href = " https://www.instagram.com/_leehxd/ " target = " _blank " > < img src = " https://img.shields.io/badge/-Instagram-%23E4405F?style=for _  _ _ _ _ _ _ _ _ _ _ -the-badge&logo=instagram&logoColor=white " target = " _blank " </ a >   
-  <a href = " https://www.twitch.tv/leehxd_ " target = " _blank " > < img src = " https://img.shields.io/badge/Twitch-9146FF?style=for-the- _  _ _ _ _ _ _ _ _ _ _ badge&logo=twitch&logoColor=white " target = " _blank " </ a >   
-  <a href = " mailto: contato@leehxd.com.br " > < img src = " https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white _  _ _ _ _ _ " target = " _blank " </ a >  
-  <a href = " https://www.linkedin.com/in/leticiajm/ " target = " _blank " > < img src = " https://img.shields.io/badge/-LinkedIn-%230077B5?style _  _ _ _ _ _ _ _ _ _ _ =for-the-badge&logo=linkedin&logoColor=white " target = " _blank " </ a >   
-</div> _ _
+💻 Sou iniciante na área 
